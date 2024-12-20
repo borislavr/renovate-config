@@ -30,7 +30,7 @@ jobs:
           path-to-document: 'https://github.com/borislavr/ost/blob/main/cla.md'
           # branch should not be protected
           branch: 'main'
-          allowlist: user1,bot*
+          allowlist: bot*
           remote-repository-name: cla-signatures
           remote-organization-name: borislavr
 
